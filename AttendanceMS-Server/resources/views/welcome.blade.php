@@ -7,8 +7,6 @@
             <div class="container">
                 <div class="row center">
                 </div>
-                <h1 class="header center teal-text text-lighten-4 res-font animated bounceInRight">Techno India College
-                    Of Technology</h1>
                 <div class="row center">
                     <h5 class="header col s12 light animated bounceInLeft">Online Attendance System</h5>
                 </div>
