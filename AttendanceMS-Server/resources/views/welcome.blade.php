@@ -6,8 +6,6 @@
         <div class="section no-pad-bot">
             <div class="container">
                 <div class="row center">
-                    <img src="{{ asset("/img/Tict_logo.png") }}" alt="img-responsive"
-                         class="img-responsive header center animated bounceInDown">
                 </div>
                 <h1 class="header center teal-text text-lighten-4 res-font animated bounceInRight">Techno India College
                     Of Technology</h1>
